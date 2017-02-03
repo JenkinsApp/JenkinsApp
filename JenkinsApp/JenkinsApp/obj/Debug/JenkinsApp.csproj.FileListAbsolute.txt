@@ -79,4 +79,3 @@ C:\Krishnamoorthy K\Projects\JeninsApp\Project1\JenkinsApp\JenkinsApp\bin\Micros
 C:\Krishnamoorthy K\Projects\JeninsApp\Project1\JenkinsApp\JenkinsApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Krishnamoorthy K\Projects\JeninsApp\Project1\JenkinsApp\JenkinsApp\obj\Debug\JenkinsApp.dll
 C:\Krishnamoorthy K\Projects\JeninsApp\Project1\JenkinsApp\JenkinsApp\obj\Debug\JenkinsApp.pdb
-C:\Krishnamoorthy K\Projects\JeninsApp\Project1\JenkinsApp\JenkinsApp\obj\Debug\JenkinsApp.csprojResolveAssemblyReference.cache
