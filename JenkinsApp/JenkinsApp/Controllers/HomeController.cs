@@ -36,7 +36,7 @@ namespace JenkinsApp.Controllers
             {
 
             }
-            return View _jobs;
+            return View(_jobs);
         }
 
         public ActionResult GetTriggerBuild(string jobName)
