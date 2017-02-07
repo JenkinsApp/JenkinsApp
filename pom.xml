@@ -7,6 +7,6 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.accenture.app</groupId>
-  <artifactId>JenkinsApp</artifactId>
+  <artifactId>JenkinsTest</artifactId>
   <version>1</version>
 </project>
