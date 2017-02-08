@@ -5,9 +5,10 @@
     <artifactId>MavenBuildTesting-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
+ 
   <modelVersion>4.0.0</modelVersion>
 <groupId>JenkinsApp</groupId>
-<artifactId>MavenBuildTesting-parent</artifactId>
+<artifactId>MavenBuildTesting</artifactId>
 <version>1.0-SNAPSHOT</version>
 <packaging>pom</packaging>
   
